@@ -1,0 +1,50 @@
+{
+  "name": "@petini96/psockets",
+  "version": "1.0.0",
+  "description": "An example of socket lib",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "client": "ts-node src/client.ts",
+    "dev": "ts-node src/index.ts",
+    "watch": "nodemon src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petini96/psockets.git"
+  },
+  "keywords": [
+    "sockets",
+    "server-sockets"
+  ],
+  "author": "Vinícius dos Santos Petini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petini96/psockets/issues"
+  },
+  "homepage": "https://github.com/petini96/psockets#readme",
+  "devDependencies": {
+    "@tsconfig/node18": "^18.2.4",
+    "@types/mime-types": "^2.1.4",
+    "@types/ws": "^8.5.10",
+    "nodemon": "^3.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/express": "^4.17.21",
+    "@types/multer": "^1.4.11",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.0",
+    "multer": "^1.4.5-lts.1",
+    "redis": "^4.6.14",
+    "sequelize": "^6.37.3",
+    "socket.io": "^4.7.5",
+    "ws": "^8.17.0"
+  }
+}
