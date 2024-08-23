@@ -3,7 +3,8 @@
   "compilerOptions": {
     "preserveConstEnums": true,
     "rootDir": "./src",
-    "outDir": "./dist"
+    "outDir": "./dist",
+    "esModuleInterop": true
   },
   "include": [
     "src/**/*"
