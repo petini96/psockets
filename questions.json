@@ -1,0 +1,322 @@
+[
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e1')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Salvar sua mãe de um incêndio",
+          "votes": 8
+        },
+        {
+          "id": 2,
+          "text": "Salvar seus dois filhos de um incêndio",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 13
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e2')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Viver 10 anos a mais, mas cego",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Viver 5 anos a mais, mas surdo",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 10
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e3')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Denunciar seu melhor amigo por um crime",
+          "votes": 5
+        },
+        {
+          "id": 2,
+          "text": "Ficar calado e carregar a culpa",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 9
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e4')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ser pobre, mas ter saúde perfeita",
+          "votes": 7
+        },
+        {
+          "id": 2,
+          "text": "Ser rico, mas com uma doença crônica",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 12
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e5')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Saber a data da sua morte",
+          "votes": 6
+        },
+        {
+          "id": 2,
+          "text": "Saber como você vai morrer",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 10
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e6')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Perder todos os seus amigos, mas manter sua família",
+          "votes": 5
+        },
+        {
+          "id": 2,
+          "text": "Perder toda a sua família, mas manter seus amigos",
+          "votes": 3
+        }
+      ],
+      "totalVotes": 8
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e7')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Viver em um mundo sem internet",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Viver em um mundo sem eletricidade",
+          "votes": 3
+        }
+      ],
+      "totalVotes": 7
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e8')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ser preso por 5 anos por um crime que não cometeu",
+          "votes": 5
+        },
+        {
+          "id": 2,
+          "text": "Cometer um crime e nunca ser pego",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 11
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649e9')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ter um QI altíssimo, mas sem emoções",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Ter inteligência média, mas ser muito empático",
+          "votes": 7
+        }
+      ],
+      "totalVotes": 11
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649ea')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Viver 100 anos em solidão",
+          "votes": 3
+        },
+        {
+          "id": 2,
+          "text": "Viver 50 anos com pessoas que te odeiam",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 7
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649eb')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ser imortal, mas nunca poder sair de casa",
+          "votes": 5
+        },
+        {
+          "id": 2,
+          "text": "Ter uma vida normal, mas morrer aos 40",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 11
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649ec')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Sacrificar sua vida para salvar 10 estranhos",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Sobreviver e deixar os 10 estranhos morrerem",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 9
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649ed')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Nunca mais comer sua comida favorita",
+          "votes": 6
+        },
+        {
+          "id": 2,
+          "text": "Nunca mais ouvir sua música favorita",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 11
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649ee')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Viver sem memória de curto prazo",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Viver sem memória de longo prazo",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 9
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649ef')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ser odiado por todos, mas ser bilionário",
+          "votes": 6
+        },
+        {
+          "id": 2,
+          "text": "Ser amado por todos, mas ser pobre",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 11
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649f0')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ter o poder de voar, mas só a 1 metro do chão",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Ter o poder de ficar invisível, mas só por 10 minutos por dia",
+          "votes": 6
+        }
+      ],
+      "totalVotes": 10
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649f1')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Viver em um mundo sem animais",
+          "votes": 3
+        },
+        {
+          "id": 2,
+          "text": "Viver em um mundo sem plantas",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 7
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649f2')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Ser incapaz de mentir, mesmo que te prejudique",
+          "votes": 5
+        },
+        {
+          "id": 2,
+          "text": "Ser incapaz de dizer a verdade, mesmo que te beneficie",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 9
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649f3')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Perder a capacidade de falar",
+          "votes": 4
+        },
+        {
+          "id": 2,
+          "text": "Perder a capacidade de escrever",
+          "votes": 5
+        }
+      ],
+      "totalVotes": 9
+    },
+    {
+      "_id": "ObjectId('67f7f7243468bcb923649f4')",
+      "options": [
+        {
+          "id": 1,
+          "text": "Viver em um mundo onde todos te ignoram",
+          "votes": 3
+        },
+        {
+          "id": 2,
+          "text": "Viver em um mundo onde todos te perseguem",
+          "votes": 4
+        }
+      ],
+      "totalVotes": 7
+    }
+  ]
