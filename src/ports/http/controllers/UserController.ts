@@ -25,3 +25,7 @@ export const store = async (req: Request, res: Response): Promise<Response> => {
 export const show = async (req: Request, res: Response): Promise<Response> => {
   return res.status(200).json("user");
 };
+
+export const list = async (req: Request, res: Response): Promise<Response> => {
+  return res.status(200).json("user");
+};

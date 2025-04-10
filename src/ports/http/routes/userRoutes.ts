@@ -15,5 +15,6 @@ const upload = multer({ storage: storage });
 
 export const userRoutes = express.Router()
 
+userRoutes.get("/users", UserController.show)
 userRoutes.get("/users/:id", UserController.show)
 userRoutes.post("/users", upload.single('file'), UserController.store)

@@ -1,0 +1,45 @@
+version: '3'
+
+volumes:
+  mongodb:
+
+networks:
+  psocket:
+
+services:
+
+  mongodb:
+    container_name: mongodb
+    image: mongo:latest
+    environment:
+      - MONGODB_INITDB_ROOT_USERNAME=user
+      - MONGODB_INITDB_ROOT_PASSWORD=pass
+    volumes:
+      - mongodb:/data/db
+    networks:
+      - psocket
+    ports:
+      - "27017:27017"
+
+  redis:
+    container_name: redis
+    image: redis:alpine
+    command: ["redis-server", "--bind", "redis", "--port", "6379"]
+    ports:
+      - "6379:6379"
+    restart: always
+    networks:
+      - psocket
+
+  mongo-express:
+    container_name: mongo-express
+    image: mongo-express
+    ports:
+      - "8081:8081"
+    environment:
+      - ME_CONFIG_MONGODB_SERVER=mongodb
+      - ME_CONFIG_MONGODB_PORT=27017
+    depends_on:
+      - mongodb
+    networks:
+      - psocket
