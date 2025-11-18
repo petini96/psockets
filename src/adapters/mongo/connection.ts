@@ -2,7 +2,7 @@ import mongoose from 'mongoose'
 import dotenv from 'dotenv'
 dotenv.config()
 
-const dbHost = process.env.DB_HOST || "mongodb"
+const dbHost = "mongodb"
 const dbPort = process.env.DB_PORT || "27017"
 const dbDatabase = process.env.DB_DATABASE || "psockets"
 
